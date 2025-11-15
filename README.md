@@ -196,7 +196,7 @@ GET https://rickandmortyapi.com/api/character?page=1
 
 ## Autor
 
-Desenvolvido como projeto de Web Development Front-End
+Desenvolvido como projeto de Web Development Front-End por Daniel Dreger Ferreira
 
 ## Licença
 
